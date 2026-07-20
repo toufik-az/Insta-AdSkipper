@@ -1,0 +1,31 @@
+# Gradle / Android build output
+.gradle/
+build/
+*/build/
+
+# Local IDE and machine state
+.idea/
+*.iml
+local.properties
+
+# Android generated packages and signing material
+*.apk
+*.ap_
+*.aab
+*.aar
+*.keystore
+*.jks
+
+# Native / generated Android folders
+.cxx/
+.externalNativeBuild/
+captures/
+
+# Local scripts/environments and reverse-engineering scratch work
+.venv/
+reverse/
+ads_example/
+
+# OS noise
+.DS_Store
+Thumbs.db

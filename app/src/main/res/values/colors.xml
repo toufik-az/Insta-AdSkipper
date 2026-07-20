@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_app">#FF0F1115</color>
+    <color name="card_bg">#FF1A1D25</color>
+    <color name="card_stroke">#FF2A2E3A</color>
+    <color name="text_primary">#FFF2F4F8</color>
+    <color name="text_secondary">#FF9AA3B2</color>
+    <color name="accent">#FFE91E63</color>
+    <color name="accent_pressed">#FFC2185B</color>
+
+    <color name="pill_on_bg">#33388E3C</color>
+    <color name="pill_on_fg">#FF66BB6A</color>
+    <color name="pill_off_bg">#33D32F2F</color>
+    <color name="pill_off_fg">#FFEF5350</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="green_500">#FF2E7D32</color>
+    <color name="red_500">#FFC62828</color>
+</resources>

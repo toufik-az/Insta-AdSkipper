@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- double chevron pointing down (= skip / scroll down) -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M10,12 L24,24 L38,12 L34,8 L24,17 L14,8 Z" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M10,28 L24,40 L38,28 L34,24 L24,33 L14,24 Z" />
+</vector>
