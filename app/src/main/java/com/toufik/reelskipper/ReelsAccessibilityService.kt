@@ -414,7 +414,7 @@ class ReelsAccessibilityService : AccessibilityService() {
     }
 
     companion object {
-        const val TAG = "ReelSkipper"
+        const val TAG = "AdSkipper"
         private const val INSTAGRAM_PACKAGE = "com.instagram.android"
         private val REELS_TAB_IDS = listOf(
             "$INSTAGRAM_PACKAGE:id/clips_tab",

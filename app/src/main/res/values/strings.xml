@@ -1,14 +1,14 @@
 <resources>
-    <string name="app_name">Reel Skipper</string>
+    <string name="app_name">AdSkipper</string>
     <string name="tagline">Auto-skip Instagram ads</string>
-    <string name="accessibility_service_label">Reel Skipper</string>
-    <string name="accessibility_service_description">Detects sponsored / ad reels in Instagram and swipes past them automatically.</string>
+    <string name="accessibility_service_label">AdSkipper</string>
+    <string name="accessibility_service_description">Detects sponsored Instagram posts, reels, and stories, then skips past them automatically.</string>
 
     <string name="pill_active">ACTIVE</string>
     <string name="pill_inactive">NOT ACTIVE</string>
 
     <string name="hint_active">Open Instagram. Ads will be skipped automatically.</string>
-    <string name="hint_needs_permission">Tap the button below and enable\n\"Reel Skipper\" in Accessibility.</string>
+    <string name="hint_needs_permission">Tap the button below and enable\n\"AdSkipper\" in Accessibility.</string>
 
     <string name="btn_enable">Enable in Accessibility</string>
     <string name="btn_open_settings">Open Accessibility settings</string>
@@ -18,7 +18,7 @@
     <string name="label_keywords">Ad keywords (comma separated)</string>
     <string name="btn_save_keywords">Save keywords</string>
     <string name="saved">Saved</string>
-    <string name="btn_skip_on">⏩  Skip is ON  —  tap to pause</string>
-    <string name="btn_skip_off">⏸  Skip is OFF  —  tap to enable</string>
+    <string name="btn_skip_on">Skip is ON - tap to pause</string>
+    <string name="btn_skip_off">Skip is OFF - tap to enable</string>
     <string name="footer_note">Works only on Instagram. Short words like \"Ad\" are matched as whole words automatically.</string>
 </resources>

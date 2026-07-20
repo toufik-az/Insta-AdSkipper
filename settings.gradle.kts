@@ -20,5 +20,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ReelSkipper"
+rootProject.name = "AdSkipper"
 include(":app")
